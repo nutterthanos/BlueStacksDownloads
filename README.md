@@ -2,9 +2,11 @@
 Links to different BlueStacks Versions
 
 Bluestacks 3:
+
 Version 3.60.89.3419: https://cdn3.bluestacks.com/downloads/3.60.89.3419/BlueStacks-Installer_3.60.89.3419_native.exe
 
 BlueStacks 4:
+
 Version 4.150.8.1008: https://cdn3.bluestacks.com/downloads/windows/bgp/4.150.8.1008/26a5c6bdcf865d905b8c4e6de81b4dfa/BlueStacksMicroInstaller_4.150.8.1008_native.exe
 
 Version 4.190.0.5002: https://cdn3.bluestacks.com/downloads/windows/bgp/4.190.0.5002/8f685ca69743fcdf3b232cce1c566c71/BlueStacksMicroInstaller_4.190.0.5002_native.exe
@@ -16,6 +18,7 @@ Version 4.280.0.1022: https://cdn3.bluestacks.com/downloads/windows/bgp/4.280.0.
 Version 4.280.1.1002: https://cdn3.bluestacks.com/downloads/windows/bgp/4.280.1.1002/c9da3f767aed4858fde55c0f37209f8a/BlueStacksMicroInstaller_4.280.1.1002_native.exe
 
 BlueStacks 5:
+
 Version 5.0.110.2104: https://cdn3.bluestacks.com/downloads/windows/nxt/5.0.110.2104/32ca960f17a3f794d4397dbabad3570e/BlueStacksMicroInstaller_5.0.110.2104_native.exe
 
 Version 5.0.200.1012: https://cdn3.bluestacks.com/downloads/windows/nxt/5.0.200.1012/614b762e3ae15fa82943abc8abf908d7/BlueStacksMicroInstaller_5.0.200.1012_native.exe
