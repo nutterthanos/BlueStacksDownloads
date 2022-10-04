@@ -63,9 +63,15 @@ Version 4.170.10.1001: https://cdn3.bluestacks.com/downloads/windows/bgp/4.170.1
 
 Version 4.180.0.1051: https://cdn3.bluestacks.com/downloads/windows/bgp/4.180.0.1051/29c601a4ce7cd71c6c370cdd097e45b7/BlueStacksMicroInstaller_4.180.0.1051_native.exe
 
+Version 4.180.0.4203 Hyper-V (Beta): https://cdn3.bluestacks.com/downloads/windows/bgp64_hyperv/4.180.0.4203/fbee18f80000cd94d60cdf0b00dc615b/x64/BlueStacks-Installer_4.180.0.4203_amd64_native.exe
+
+Version 4.180.0.4205 Hyper-V (Beta): https://cdn3.bluestacks.com/downloads/windows/bgp64_hyperv/4.180.0.4205/5ba22abee2e4157036dc88392655c902/x64/BlueStacks-Installer_4.180.0.4205_amd64_native.exe
+
 Version 4.190.0.5002: https://cdn3.bluestacks.com/downloads/windows/bgp/4.190.0.5002/8f685ca69743fcdf3b232cce1c566c71/BlueStacksMicroInstaller_4.190.0.5002_native.exe
 
 Version 4.200.0.4012: https://cdn3.bluestacks.com/EAP/BlueStacksMicroInstaller_4.200.0.4012_native.exe
+
+Version 4.200.0.4204 (Hyper-V Beta): https://cdn3.bluestacks.com/downloads/windows/bgp64_hyperv/4.200.0.4204/5153e562296b2c5888743acf301add58/x64/BlueStacks-Installer_4.200.0.4204_amd64_native.exe
 
 Version 4.200.0.5201: https://cdn3.bluestacks.com/downloads/windows/bgp/4.200.0.5201/f8e9e9588db996f077b3f57f84ba5c50/BlueStacksMicroInstaller_4.200.0.5201_native.exe
 
